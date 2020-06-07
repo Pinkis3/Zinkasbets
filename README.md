@@ -1,2 +1,2 @@
 # Zinkasbets
-I'm thinking to create a gambling website, however this is gonna take a while for me because im a beginner coder and never owned a bussiness.
+Gambling Website Project Started 2020/06/07
